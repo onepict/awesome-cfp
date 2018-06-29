@@ -5,7 +5,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 - [2019](#2019)
 - [2018](#2018)
-- [Contributing](#Contributing)
+- [Contributing](#contributing)
 
 ## 2019
 
