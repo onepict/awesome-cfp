@@ -5,7 +5,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 ### France 🇫🇷
 
-| Event | Location | Date | Links | End date
+| Event | Location | Date | Links | CFP end date
 | --- | --- | --- | --- | --- |
 | **Open Source Summit** | Paris | 05/12-06/12 | [CFP](http://cfp.opensourcesummit.paris/), [Website](http://www.opensourcesummit.paris/) | ?
 | **dotJS** | Paris | 09/11 | [CFP](https://eventil.com/events/dotjs-2018), [Website](https://www.dotjs.io/) | 30/04/2018
@@ -21,6 +21,6 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 ### Belgium 🇧🇪
 
 
-| Event | Location | Date | Links | End date
+| Event | Location | Date | Links | CFP end date
 | --- | --- | --- | --- | --- |
 | **Devoxx** | Antwerp | 12/11 - 16/11 | [CFP](https://dvbe18.confinabox.com/), [Website](https://devoxx.be/) | 06/07/2018
