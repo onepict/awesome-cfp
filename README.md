@@ -5,6 +5,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 - [2019](#2019)
 - [2018](#2018)
+- [Contributing](#Contributing)
 
 ## 2019
 
@@ -42,6 +43,6 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 | --- | --- | --- | --- | --- |
 | **Devoxx** | Antwerp | 12/11 - 16/11 | [CFP](https://dvbe18.confinabox.com/), [Website](https://devoxx.be/) | 06/07/2018
 
-## Contributing guidelines
+## Contributing
 
 You want to add your event ? Please, check first our contribution guidelines [here](CONTRIBUTING.md) and make a Pull Request !
