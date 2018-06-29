@@ -13,8 +13,8 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 | Event | Location | Dates | Links | CFP end date
 | --- | --- | --- | --- | --- |
-| **Snowcamp** | Grenoble | 23/01 - 26/01 | CFP, [Website](https://snowcamp.io/en/) | 
 | **Devfest Nantes** | Nantes | 21/10 - 22/10 | CFP, [Website](https://devfest.gdgnantes.com/) | 30/06/2019
+| **Snowcamp** | Grenoble | 23/01 - 26/01 | CFP, [Website](https://snowcamp.io/en/) |
 
 ## 2018
 
