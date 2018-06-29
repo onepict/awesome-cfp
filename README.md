@@ -14,6 +14,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 | **BlendWebMix** | Lyon | 24/10 - 25/10 | [CFP](https://blendwebmix.workable.com/), [Website](https://www.blendwebmix.com/) | 30/04/2018
 | **Devfest Nantes** | Nantes | 18/10 - 19/10 | [CFP](https://cfp.gdgnantes.com/public/event/inzOQDR94h4bAaOVd7Db), [Website](https://devfest2018-site.firebaseapp.com/) | 01/07/2018
 | **Paris Web** | Paris | 04/10 - 06/10 | [CFP](https://appel-orateurs.paris-web.fr/), [Website](https://www.paris-web.fr/) | 02/04/2018
+| **FrenchKit** | Paris | 20/09 - 21/09 | [CFP](https://www.papercall.io/frenchkit-2018), [Website](https://frenchkit.fr/) | 24/06/2018
 | **Sunny Tech** | Montpellier | 28/06 - 29/06 | [CFP](https://sunnytech.cfp.io/), [Website](https://sunny-tech.io/) | 31/03/2018
 | **Devfest Lille** | Lille | 21/06 | [CFP](https://devfestlille.cfp.io/), [Website](https://devfest.gdglille.org/) | 01/04/2018
 | **Web2day** | Nantes | 13/06 - 15/06 | [CFP](https://web2day.cfp.io/), [Website](https://web2day.co/) | 17/03/2018
