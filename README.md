@@ -3,7 +3,16 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 ## Contents
 
+- [2019](#2018)
 - [2018](#2018)
+
+## 2019
+
+### France 🇫🇷
+
+| Event | Location | Dates | Links | CFP end date
+| --- | --- | --- | --- | --- |
+| **Snowcamp** | Grenoble | 23/01 - 26/01 | CFP (opens this summer), [Website](https://snowcamp.io/en/) | 31/10/2018
 
 ## 2018
 
