@@ -41,3 +41,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 | Event | Location | Dates | Links | CFP end date
 | --- | --- | --- | --- | --- |
 | **Devoxx** | Antwerp | 12/11 - 16/11 | [CFP](https://dvbe18.confinabox.com/), [Website](https://devoxx.be/) | 06/07/2018
+
+## Contributing guidelines
+
+You want to add your event ? Please, check first our contribution guidelines [here](CONTRIBUTING.md) and make a Pull Request !
