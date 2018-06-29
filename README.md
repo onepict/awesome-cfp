@@ -7,6 +7,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 | Event | Location | Date | Links | End date
 | --- | --- | --- | --- | --- |
+| **Open Source Summit** | Paris | 05/12-06/12 | [CFP](http://cfp.opensourcesummit.paris/), [Website](http://www.opensourcesummit.paris/) | ?
 | **dotJS** | Paris | 09/11 | [CFP](https://eventil.com/events/dotjs-2018), [Website](https://www.dotjs.io/) | 30/04/2018
 | **BlendWebMix** | Lyon | 24/10 - 25/10 | [CFP](https://blendwebmix.workable.com/), [Website](https://www.blendwebmix.com/) | 30/04/2018
 | **Devfest Nantes** | Nantes | 18/10 - 19/10 | [CFP](https://cfp.gdgnantes.com/public/event/inzOQDR94h4bAaOVd7Db), [Website](https://devfest2018-site.firebaseapp.com/) | 01/07/2018
