@@ -7,6 +7,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 | Event | Location | Date | Links | End date
 | --- | --- | --- | --- | --- |
+| **dotJS** | Paris | 09/11 | [CFP](https://eventil.com/events/dotjs-2018), [Website](https://www.dotjs.io/) | 30/04/2018
 | **BlendWebMix** | Lyon | 24/10 - 25/10 | [CFP](https://blendwebmix.workable.com/), [Website](https://www.blendwebmix.com/) | 30/04/2018
 | **Paris Web** | Paris | 04/10 - 06/10 | [CFP](https://appel-orateurs.paris-web.fr/), [Website](https://www.paris-web.fr/) | 02/04/2018
 | **Sunny Tech** | Montpellier | 28/06 - 29/06 | [CFP](https://sunnytech.cfp.io/), [Website](https://sunny-tech.io/) | 31/03/2018
