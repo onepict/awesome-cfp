@@ -14,7 +14,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 | **Devfest Toulouse** | Toulouse | 08/11 | [CFP](https://devfest-toulouse.cfp.io), [Website](https://devfesttoulouse.fr/) | 01/07/2018
 | **BlendWebMix** | Lyon | 24/10 - 25/10 | [CFP](https://blendwebmix.workable.com/), [Website](https://www.blendwebmix.com/) | 30/04/2018
 | **Devfest Nantes** | Nantes | 18/10 - 19/10 | [CFP](https://cfp.gdgnantes.com/public/event/inzOQDR94h4bAaOVd7Db), [Website](https://devfest2018-site.firebaseapp.com/) | 01/07/2018
-| **DevOps REX** | Paris | 16/10 | [CFP](https://www.devopsrex.fr/proposer-un-talk/), [Website](http://www.devopsrex.fr/) | ?
+| **DevOps REX** | Paris | 16/10 | [CFP](https://www.devopsrex.fr/proposer-un-talk/), [Website](http://www.devopsrex.fr/) | 15/06/2018
 | **Paris Web** | Paris | 04/10 - 06/10 | [CFP](https://appel-orateurs.paris-web.fr/), [Website](https://www.paris-web.fr/) | 02/04/2018
 | **FrenchKit** | Paris | 20/09 - 21/09 | [CFP](https://www.papercall.io/frenchkit-2018), [Website](https://frenchkit.fr/) | 24/06/2018
 | **Sunny Tech** | Montpellier | 28/06 - 29/06 | [CFP](https://sunnytech.cfp.io/), [Website](https://sunny-tech.io/) | 31/03/2018
