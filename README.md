@@ -7,6 +7,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 | Event | Location | Date | Links | End date
 | --- | --- | --- | --- | --- |
+| **Paris Web** | Paris | 04/10 - 06/10 | [CFP](https://appel-orateurs.paris-web.fr/), [Website](https://www.paris-web.fr/) | 02/04
 | **Sunny Tech** | Montpellier | 28/06 - 29/06 | [CFP](https://sunnytech.cfp.io/), [Website](https://sunny-tech.io/) | 31/03
 | **Devfest** | Lille | 21/06 | [CFP](https://devfestlille.cfp.io/), [Website](https://devfest.gdglille.org/) | 01/04
 
