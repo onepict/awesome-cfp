@@ -3,7 +3,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 ## Contents
 
-- [2019](#2018)
+- [2019](#2019)
 - [2018](#2018)
 
 ## 2019
