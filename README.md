@@ -21,7 +21,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 | Event | Location | Dates | Links | CFP end date
 | --- | --- | --- | --- | --- |
-| **Open Source Summit** | Paris | 05/12 - 06/12 | [CFP](http://cfp.opensourcesummit.paris/), [Website](http://www.opensourcesummit.paris/) | 
+| **Open Source Summit** | Paris | 05/12 - 06/12 | [CFP](http://cfp.opensourcesummit.paris/), [Website](http://www.opensourcesummit.paris/) | 31/08/2018
 | **Codeurs en Seine** | Rouen | 22/11 | [CFP](https://codeursenseine.cfp.io/), [Website](https://www.codeursenseine.com/2018/) | 15/09/2018
 | **Xebicon'18** | Paris | 20/11 | CFP, [Website](https://xebicon.fr/) | 
 | **DevOps D-Day** | Marseille | 15/11 | [CFP](https://docs.google.com/forms/d/e/1FAIpQLScOHPUjB2qxLEl91-wMPskpFR4NKIRZz_QFizPUgEpS1f73dw/viewform), [Website](http://2018.devops-dday.com/) | 21/06/2018
