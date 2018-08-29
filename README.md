@@ -1,7 +1,7 @@
 # awesome-cfp
 A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
-# Opened registrations
+## Opened registrations
 
 | CFP end    | CFP link                                                   | Location  | Event dates   |
 | ---------- | ---------------------------------------------------------- | --------- | ------------- |
