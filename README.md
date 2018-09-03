@@ -8,7 +8,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 | 2018/09/03 | [ScalaIO](https://cfp.scala.io/)                           | Lyon, FR     | 2018/10/29-31 |
 | 2018/09/21 | [Meilleur Dev de France](https://www.papercall.io/mdf2018) | Paris, FR    | 2018/10/23    |
 | 2018/09/30 | [Agile Tour Lille](http://2018.agiletour-lille.org/cfp/)   | Lille, FR    | 2018/11/08-09 |
-| ?          | [SnowCamp](https://www.papercall.io/snowcamp-2019)         | Grenoble, FR | 2019/01/23-26 |
+| 2018/11/04 | [SnowCamp](https://www.papercall.io/snowcamp-2019)         | Grenoble, FR | 2019/01/23-26 |
 
 ## Closed registrations
 
