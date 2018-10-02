@@ -12,7 +12,6 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 | CFP end        | CFP link                                                                      | Location        | Event dates   |
 | -------------- | ----------------------------------------------------------------------------- | --------------- | ------------- |
-
 | ~~2018/09/21~~ | [Meilleur Dev de France](https://www.papercall.io/mdf2018) | Paris, FR    | 2018/10/23    |
 | ~~2018/09/24~~ | [Confoo CA](https://confoo.ca/fr/yul2019/call-for-papers)  | Montreal, CA | 2019/03/13-15 |
 | ~~2018/09/30~~ | [Agile Tour Lille](http://2018.agiletour-lille.org/cfp/)   | Lille, FR    | 2018/11/08-09 |
