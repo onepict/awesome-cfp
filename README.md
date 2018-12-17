@@ -6,6 +6,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 | CFP end    | CFP link                                                   | Location     | Event dates   |
 | ---------- | ---------------------------------------------------------- | ------------ | ------------- |
 | 2019/01/20 | [MiXiT](https://sessionize.com/mixit19/) | Lyon, FR | 2019/05/23-24 |
+| 2019/02/28 | [MiXiT](https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM) | Montpellier, FR | 2019/06/27-28 |
 | 2019/03/31 | [Devfest Lille](https://conference-hall.io/organizer/event/6HVEO4aISYO7ctNdOIWx/edit/cfp) | Lille, FR | 2019/06/14 |
 
 ## Closed registrations
