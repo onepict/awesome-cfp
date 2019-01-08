@@ -5,7 +5,6 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 | CFP end    | CFP link                                                   | Location     | Event dates   |
 | ---------- | ---------------------------------------------------------- | ------------ | ------------- |
-| 2019/01/07 | [BreizhCamp](https://breizhcamp.cfp.io/) | Rennes, FR | 2019/03/20-22 |
 | 2019/01/14 | [Devoxx FR](https://cfp.devoxx.fr/) | Paris, FR | 2019/04/17-19 |
 | 2019/01/20 | [MiXiT](https://sessionize.com/mixit19/) | Lyon, FR | 2019/05/23-24 |
 | 2019/01/31 | [RivieraDEV](https://rivieradev-db8f5.firebaseapp.com/public/event/MdKOzN5iWpoAWLEaTX8M) | Sophia Antipolis, FR | 2019/05/15-17 |
@@ -16,6 +15,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 | CFP end        | CFP link                                                                      | Location        | Event dates   |
 | -------------- | ----------------------------------------------------------------------------- | --------------- | ------------- |
+| ~~2019/01/07~~ | [BreizhCamp](https://breizhcamp.cfp.io/) | Rennes, FR | 2019/03/20-22 |
 | ~~2018/11/04~~ | [SnowCamp](https://www.papercall.io/snowcamp-2019)         | Grenoble, FR | 2019/01/23-26 |
 | ~~2018/10/31~~ | [CodeMobile](http://www.codemobile.co.uk/call-for-speakers/)| Chester, UK | 2019/04/01-04 |
 | ~~2018/10/12~~ | [Swift Cloud Workshop](https://docs.google.com/forms/d/e/1FAIpQLSc8JXEgpGxCfMct6Xfcqa8tIa-2yDmbcy5yNSE3K5BWv1iUjQ/viewform) | New York City, USA | 2018/11/17 |
