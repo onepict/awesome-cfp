@@ -5,7 +5,6 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 | CFP end    | CFP link                                                   | Location     | Event dates   |
 | ---------- | ---------------------------------------------------------- | ------------ | ------------- |
-| 2019/01/31 | [RivieraDEV](https://rivieradev-db8f5.firebaseapp.com/public/event/MdKOzN5iWpoAWLEaTX8M) | Sophia Antipolis, FR | 2019/05/15-17 |
 | 2019/02/28 | [SunnyTech](https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM) | Montpellier, FR | 2019/06/27-28 |
 | 2019/03/31 | [Devfest Lille](https://conference-hall.io/organizer/event/6HVEO4aISYO7ctNdOIWx/edit/cfp) | Lille, FR | 2019/06/14 |
 
@@ -13,6 +12,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 
 | CFP end        | CFP link                                                                      | Location        | Event dates   |
 | -------------- | ----------------------------------------------------------------------------- | --------------- | ------------- |
+| ~~2019/01/31~~ | [RivieraDEV](https://rivieradev-db8f5.firebaseapp.com/public/event/MdKOzN5iWpoAWLEaTX8M) | Sophia Antipolis, FR | 2019/05/15-17 |
 | ~~2019/01/20~~ | [MiXiT](https://sessionize.com/mixit19/) | Lyon, FR | 2019/05/23-24 |
 | ~~2019/01/14~~ | [Devoxx FR](https://cfp.devoxx.fr/) | Paris, FR | 2019/04/17-19 |
 | ~~2019/01/07~~ | [BreizhCamp](https://breizhcamp.cfp.io/) | Rennes, FR | 2019/03/20-22 |
