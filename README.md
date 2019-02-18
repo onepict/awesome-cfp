@@ -1,5 +1,5 @@
 # awesome-cfp
-A collection of awesome Call For Papers to never miss to speak anymore 🗣
+A collection of Call For Papers to never miss to speak anymore 🗣
 
 ## Opened registrations
 
